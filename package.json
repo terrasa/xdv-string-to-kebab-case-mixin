@@ -1,6 +1,6 @@
 {
   "name": "@xdv/xdv-string-to-kebab-case-mixin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Mixin to convert a string to kebabCase.",
   "keywords": [
     "mixin",
@@ -15,6 +15,13 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terrasa/xdv-string-to-kebab-case-mixin"
+  },
+  "bugs": {
+    "url": "https://github.com/terrasa/xdv-string-to-kebab-case-mixin/issues"
   }
 }
 

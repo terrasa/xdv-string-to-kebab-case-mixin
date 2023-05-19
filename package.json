@@ -1,5 +1,5 @@
 {
-  "name": "@xdv/xdv-string-to-kebab-case-mixin",
+  "name": "xdv-string-to-kebab-case-mixin",
   "version": "1.0.4",
   "description": "Mixin to convert a string to kebabCase.",
   "keywords": [

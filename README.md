@@ -8,7 +8,7 @@ kebabCase(stringToKebabCase) // string-to-kebab-case
 ## Installation
 
 ```bash
-npm i xdv-string-to-kebab-case-mixin
+npm i @xiul/xdv-string-to-kebab-case-mixin
 ```
 
 ## Usage
